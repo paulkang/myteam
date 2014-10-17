@@ -1,0 +1,19 @@
+/* Turn the links red */
+a {
+  color: red;
+}
+
+/* Make the name 36px font and italicized */
+h1 {
+	font-size: 50px;
+	font-family: "Shadows Into Light";
+	color: red;
+}
+
+h2 {
+	font-size: 40px;
+	font-style: italic;
+	font-family: "Shadows Into Light";
+	color: red;
+}
+\
